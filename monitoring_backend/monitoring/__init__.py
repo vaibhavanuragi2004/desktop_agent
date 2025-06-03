@@ -1,0 +1,3 @@
+"""
+Monitoring Django App
+"""
